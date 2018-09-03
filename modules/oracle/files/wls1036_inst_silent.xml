@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bea-installer>
+	<input-fields>
+		<data-value name="BEAHOME" value="/home/vagrant/oracle" />
+		<data-value name="USER_INSTALL_DIR" value="/home/vagrant/oracle/wlserver_10.3" />
+	</input-fields>
+</bea-installer>

@@ -1,0 +1,4 @@
+*.jar
+.vagrant
+.DS_Store
+*.zip
